@@ -1,7 +1,7 @@
 <!Doctype html>
 <html>
 <head>
-    <title> My Book </title>
+    <title>My Book</title>
     <meta charset="UTF-8">
 </head>
 <body>
